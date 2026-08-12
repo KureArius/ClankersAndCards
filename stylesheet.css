@@ -4,7 +4,6 @@
 * {
     margin: 0px auto;
     color: brown;
-    font-size: 25px;
     text-align: center;
     font-family: 'Courier New', Courier, monospace
 }
@@ -13,6 +12,10 @@ body {
   background-image: url('images/background.png');
   background-size: cover;
   background-repeat: no-repeat;
+}
+
+p {
+  font-size: 20px;
 }
 
 #title {
