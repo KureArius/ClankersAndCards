@@ -1,0 +1,15 @@
+* {
+    margin: 0px auto;
+    color: brown;
+    fon
+}
+
+body {
+  background-image: url('images/background.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#title {
+  width: 20cm;
+}
