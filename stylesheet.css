@@ -1,7 +1,12 @@
+@font-face {font-family: typewriter; src: url('https://www.1001fonts.com/monospace-font.html?size=-1&page=9');}
+
+
 * {
     margin: 0px auto;
     color: brown;
-    fon
+    font-size: 25px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace
 }
 
 body {
@@ -13,3 +18,4 @@ body {
 #title {
   width: 20cm;
 }
+
